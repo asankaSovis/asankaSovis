@@ -13,14 +13,14 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asankasovis&theme=gruvbox&margin-w=15&column=7&no-frame=true" alt="Badges (NOTE: If you see this text, then someting must've gone wrong with loading this widget. Please try reloading. If it still persist, please contact me.)" /></a> </p>
 
-🧑‍🔬 As an Electronics and Telecommunication Engineering undergraduate from [Sri Lanka Technological Campus](www.sltc.ac.lk), I'm interested in all things electronic and programming related. I'm also working full-time as an Embedded Systems Engineering Intern at Atlas Populi Labs to complete my internship. I spend most of my time working on my campus work, developing engineering designs at my workplace and writing different pieces of code in my free time. I also like to fix electronic equipment and even design my own if I get the chance.
+🧑‍🔬 As an Electronics and Telecommunication Engineering undergraduate from [Sri Lanka Technological Campus](www.sltc.ac.lk), I'm interested in all things electronic and programming related. I'm also working full-time as an Associate Embedded Engineer at SenzMate IoT Intelligence to apply and improve my knowledge and experience. I spend most of my time working on research projects at SenzMate, developing engineering designs for my interests and writing different pieces of code in my free time. I also like to fix electronic equipment and even design my own if I can.
 
 **Skills:** Electronic Engineering ⚡ | FPGAs &nbsp;𓇲&nbsp; | Programming 💻 | Graphic Designing 📊 | Teamwork 🤝 | Writing 📝
 
 - 🤗 Passionate about anything tech
 - 👍 Like music, good art and exercise
-- 🎓 Studying Electronics and Telecommunication Engineering at [SLTC Research University](https://sltc.ac.lk/)
-- 👨‍💻 Working as an Embedded Systems Engineering Intern at [Atlas Populi Labs](https://atlaslabs.com.au/)
+- 🎓 Pending graduation in Electronics and Telecommunication Engineering at [SLTC Research University](https://sltc.ac.lk/)
+- 👨‍💻 Working as an Associate Embedded Engineer at [SenzMate IoT Intelligence](https://www.senzmate.com/)
 - 🧭 Co-creator of [Project Almanac](http://www.projectalmanac.org/)
 - 📧 How to reach me: [akashsovis@gmail.com](mailto:akashsovis@gmail.com)
 - 🌎 [Find me on the internet](https://asankasovis.github.io/)
