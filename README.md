@@ -1,4 +1,4 @@
-# Seasons Greetings ⛄, I'm Asanka 🇱🇰
+# Ayubowan 🙏🏿, I'm Asanka 🇱🇰
 
 ![I'm a tech nerd and a coding enthusiast](https://github.com/asankaSovis/asankaSovis/blob/main/cover.png)
 
