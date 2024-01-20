@@ -1,6 +1,6 @@
 # Ayubowan 🙏🏿, I'm Asanka 🇱🇰
 
-![I'm a tech nerd and a coding enthusiast](https://github.com/asankaSovis/asankaSovis/blob/main/cover.png)
+![I'm a tech nerd and a coding enthusiast](./Cover.png)
 
 > An Electronics & Telecommunication Engineering Undergraduate from Sri Lanka Technological Campus
 
