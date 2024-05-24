@@ -1,8 +1,8 @@
 # Ayubowan 🙏🏿, I'm Asanka 🇱🇰
 
-![I'm a tech nerd and a coding enthusiast](./Cover.png)
+![I'm a tech nerd and a coding enthusiast](./.sources/Cover.png)
 
-> An Electronics & Telecommunication Engineering Undergraduate from Sri Lanka Technological Campus
+> An Associate Embedded Engineer working in the field of Embedded Engineering
 
 **🤔 Knowing how to code makes you look at the world from a different perspective 🌏. That's why I'm so passionate about coding. Hello World 👋; welcome to my Github profile. I'm still a student and am 25 years of age, so there's a long journey ahead of me 🙆. I like to dream 💬 big and to see other peoples dreams come true. I'm a tech nerd 🐱‍💻 and a coding enthusiast. Hope you might find me amusing.🤩**
 
@@ -31,8 +31,8 @@
 
 ⚡I am on most of the social media on the internet. I share interesting things related to electronics, tech and programming. I also share my own work, not to mention the blog posts I write. Sometimes you might find some other things as well.
 
-[<img src='./facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/artist.artist.98) [<img src='./github.svg' alt='github' height='30'>](https://github.com/asankaSovis)  [<img src='./instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/asankaakashsovis/)  [<img src='./twitter.svg' alt='twitter' height='30'>](https://twitter.com/AsankaSovis)  [<img src='./linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/asanka-sovis/)  [<img src='./youtube.svg' alt='youTube' height='30'>](https://www.youtube.com/c/AKASHSOVIS/) 
-[<img src='./deviant.svg' alt='deviant' height='30'>](https://www.deviantart.com/asanka98)  [<img src='./pin.svg' alt='pinterest' height='30'>](https://www.pinterest.com/asankasovis)     [<img src='./hashnode.png' alt='hashnode' height='28'>](https://asanka.hashnode.dev/)     [<img src='./blog.svg' alt='blog' height='28'>](https://asanka-sovis.blogspot.com/)
+[<img src='./.sources/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/artist.artist.98) [<img src='./.sources/github.svg' alt='github' height='30'>](https://github.com/asankaSovis)  [<img src='./.sources/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/asankaakashsovis/)  [<img src='./.sources/twitter.svg' alt='twitter' height='30'>](https://twitter.com/AsankaSovis)  [<img src='./.sources/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/asanka-sovis/)  [<img src='./.sources/youtube.svg' alt='youTube' height='30'>](https://www.youtube.com/c/AKASHSOVIS/) 
+[<img src='./.sources/deviant.svg' alt='deviant' height='30'>](https://www.deviantart.com/asanka98)  [<img src='./.sources/pin.svg' alt='pinterest' height='30'>](https://www.pinterest.com/asankasovis)     [<img src='./.sources/hashnode.png' alt='hashnode' height='28'>](https://asanka.hashnode.dev/)     [<img src='./.sources/blog.svg' alt='blog' height='28'>](https://asanka-sovis.blogspot.com/)
 
 **Also drop a [quick message](https://tr.ee/GbXYISHOTX), I'll try to reply as soon as possible.**
 
@@ -140,6 +140,6 @@ In this project, we try to use a distributed HPC algorithm to enhance timetable 
 
 > Want a profile like this 😏? [Drop in](https://www.fiverr.com/s2/e49d0013dd)
 
-***Made with ❤️ in [<img src='./lion.svg' alt='sl' height='20'>](https://github.com/asankaSovis/asankaSovis/blob/main/lion.svg "Sri Lanka") Sri Lanka***
+***Made with ❤️ in [<img src='./.sources/lion.svg' alt='sl' height='20'>](https://github.com/asankaSovis/asankaSovis/blob/main/lion.svg "Sri Lanka") Sri Lanka***
 
 ` © 2024 Asanka Sovis `
