@@ -23,7 +23,7 @@
 - 🎵 Appreciates good art and music
 - 📧 Reach me with my email: [akashsovis@gmail.com](mailto:akashsovis@gmail)
 - 🌎 Visit my Website: [asankasovis.github.io](https://asankasovis.github.io/)
-- 🌲 Go through my Linktree: [Go [through my ](https://linktr.ee/asankasovis)Linktree](https://linktr.ee/asankasovis)
+- 🌲 Go through my Linktree: [Linktree](https://linktr.ee/asankasovis)
 - 💸 Donations: [Paypal](https://www.paypal.com/donate/?hosted_button_id=4EWXTWQ9FUFLA)
 
 ## 💜 Social Media
