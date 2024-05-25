@@ -6,7 +6,7 @@
 
 ## ✒️ About Me
 
-<center> Asanka is an Embedded Engineer with one year of experience in the industry. Graduate from SLTC Research University, Asanka specializes in Electronics and Telecommunication Engineering. This is fuelled by a passion for all things electronics and experience in firmware development, hardware design and IoT integrations. The experience provides Asanka with a keen sense of managing projects, optimizing hardware designs and writing memory-safe code. </center>
+<p align="center"> Asanka is an Embedded Engineer with one year of experience in the industry. Graduate from SLTC Research University, Asanka specializes in Electronics and Telecommunication Engineering. This is fuelled by a passion for all things electronics and experience in firmware development, hardware design and IoT integrations. The experience provides Asanka with a keen sense of managing projects, optimizing hardware designs and writing memory-safe code. </p>
 
 </br>
 
@@ -30,11 +30,10 @@
 
 💜 Asanka shares interesting things related to electronics, tech and programming on all major social media. Asanka is also keen on sharing his work, not to mention the blog posts he writes. The content doesn't end there, check the links below to take a look.
 
-
-[<center><img src='./.sources/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/artist.artist.98) [<img src='./.sources/github.svg' alt='github' height='30'>](https://github.com/asankaSovis)  [<img src='./.sources/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/asankaakashsovis/)  [<img src='./.sources/twitter.svg' alt='twitter' height='30'>](https://twitter.com/AsankaSovis)  [<img src='./.sources/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/asanka-sovis/)  [<img src='./.sources/youtube.svg' alt='youTube' height='30'>](https://www.youtube.com/c/AKASHSOVIS/) 
+[<p align="center"><img src='./.sources/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/artist.artist.98) [<img src='./.sources/github.svg' alt='github' height='30'>](https://github.com/asankaSovis)  [<img src='./.sources/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/asankaakashsovis/)  [<img src='./.sources/twitter.svg' alt='twitter' height='30'>](https://twitter.com/AsankaSovis)  [<img src='./.sources/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/asanka-sovis/)  [<img src='./.sources/youtube.svg' alt='youTube' height='30'>](https://www.youtube.com/c/AKASHSOVIS/) 
 [<img src='./.sources/deviant.svg' alt='deviant' height='30'>](https://www.deviantart.com/asanka98)  [<img src='./.sources/pin.svg' alt='pinterest' height='30'>](https://www.pinterest.com/asankasovis)     [<img src='./.sources/hashnode.png' alt='hashnode' height='28'>](https://asanka.hashnode.dev/)     [<img src='./.sources/blog.svg' alt='blog' height='28'>](https://asanka-sovis.blogspot.com/)
 
-</center>
+</p>
 
 > Also, drop a [quick message](https://tr.ee/GbXYISHOTX), I'll try to reply as soon as possible.
 
@@ -59,7 +58,7 @@
 ## 🗝️ Key Languages
 
 🗝️ Asanka is interested in a variety of fields. He finds himself comfortable mostly in Embedded Development. However, he's interested in scripting, HDL and creative design as well. On the other hand, he also does reverse engineering, technology research and blogging. Eventhough not his strong point, he's also capable of working on web development. Go through the following to get a better understanding of his skill set.
-<center>
+<p align="center">
     <table>
         <tr>
             <td>💾 C/C++</td>
@@ -84,7 +83,7 @@
             <td>📚 Latex</td>
         </tr>
     </table> 
-</center>
+</p>
 
 <p align="center"><img src="./metrics/metrics.plugin.langs.svg" alt="Top Languages" /></p>
  
@@ -160,9 +159,11 @@ In this project, the plan was to use a distributed HPC algorithm to enhance time
 
 ---
 
+</br>
+
 > Check out my [Fiverr](https://www.fiverr.com/s2/e49d0013dd)
 
 ***Made with ❤️ in [<img src='./.sources/lion.svg' alt='sl' height='20'>](https://github.com/asankaSovis/asankaSovis/blob/main/lion.svg "Sri Lanka") Sri Lanka***
 
-<center> © 2024, Asanka Sovis </center> 
+<p align="center">© 2024, Asanka Sovis </p> 
 
