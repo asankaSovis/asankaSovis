@@ -2,7 +2,7 @@
 
 ![I'm a tech nerd and a coding enthusiast](./.sources/Cover.png)
 
-> An Associate Embedded Engineer working in the field of Embedded Engineering
+> An Embedded Engineer working in the field of Embedded Engineering
 
 ## ✒️ About Me
 
@@ -14,7 +14,7 @@
 
 **Skills:** ⚡ Electronic Engineering | 📟 FPGA and HDL | 💿 Firmware Development | 🖥️ Hardware Design | 💾 Scripting
 
-- ⛑️ Working as an Associate Embedded Engineer at [SenzMate IoT Intelligence](https://www.senzmate.com/)
+- ⛑️ Working as an Embedded Engineer at [SenzMate IoT Intelligence](https://www.senzmate.com/)
 - 🎓 Graduate in BSc. in Engineering in Electrical, Electronic and Telecommunication at [SLTC Research University](https://sltc.ac.lk/)
 - 🌃 Co-creator of [Project Almanac](http://www.projectalmanac.org/)
 - 💿 An avid C/C++ and Rust firmware development
@@ -57,7 +57,7 @@
 
 ## 🗝️ Key Languages
 
-🗝️ Asanka is interested in a variety of fields. He finds himself comfortable mostly in Embedded Development. However, he's interested in scripting, HDL and creative design as well. On the other hand, he also does reverse engineering, technology research and blogging. Eventhough not his strong point, he's also capable of working on web development. Go through the following to get a better understanding of his skill set.
+🗝️ Asanka is interested in a variety of fields. He finds himself comfortable mostly in Embedded Development. However, he's interested in scripting, HDL and creative design as well. On the other hand, he also does reverse engineering, technology research and blogging. Even though not his strong point, he's also capable of working on web development. Go through the following to get a better understanding of his skill set.
 <p align="center">
     <table>
         <tr>
