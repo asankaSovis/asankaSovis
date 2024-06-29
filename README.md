@@ -10,7 +10,7 @@
 
 </br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asankasovis&theme=gruvbox&margin-w=15&column=7&no-frame=true" alt="Badges (NOTE: If you see this text, then something must've gone wrong with loading this widget. Please try reloading. If it persist, please contact me.)" /></a> </p>
+<p align="center"> <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards?tab=readme-ov-file"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asankaSovis&theme=transparent" alt="Overview (NOTE: If you see this text, then something must've gone wrong with loading this widget. Please try reloading. If it persist, please contact me.)" /></a> </p>
 
 **Skills:** ⚡ Electronic Engineering | 📟 FPGA and HDL | 💿 Firmware Development | 🖥️ Hardware Design | 💾 Scripting
 
@@ -58,6 +58,15 @@
 ## 🗝️ Key Languages
 
 🗝️ Asanka is interested in a variety of fields. He finds himself comfortable mostly in Embedded Development. However, he's interested in scripting, HDL and creative design as well. On the other hand, he also does reverse engineering, technology research and blogging. Even though not his strong point, he's also capable of working on web development. Go through the following to get a better understanding of his skill set.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,rust" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,php,solidity,mysql,matlab,latex" />
+    <img src="https://skillicons.dev/icons?i=py,bash,java" />
+  </a>
+</p>
+
 <p align="center">
     <table>
         <tr>
