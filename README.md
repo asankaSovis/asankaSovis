@@ -114,7 +114,7 @@ The goal of this project is to create a safe yet simple password manager that is
 
 ### 03. 🔥 Prometheus Fire Alarm System
 This project was intended to create a next-generation fire alarm system that is both robust and smart. It can successfully detect and even extinguish fires while also giving full control to the operator remotely. The command panel even can manage multiple of these fire alarm modules which gives the building much better safety when it comes to fire hazards. I have even uploaded a demonstration to YouTube that shows the fire alarm system in action.
-- *Key Technologies* - 💿 C++ | 🖥️ Visual C# | ♾️ Arduino | 𓇲 Nordic Semicon | 🖧 Matter Network
+- *Key Technologies* - 💿 C++ | 🖥️ Visual C# | ♾️ Arduino | 𓇲 Nordic Semicon | 🖧 Matter Network | 𓇲 Zephyr OS
 - *Status* - ✅ done
 - *Repository* - [prometheus-fire-alarm](https://github.com/asankaSovis/prometheus-fire-alarm) | [prometheus-command-panel](https://github.com/asankaSovis/prometheus-command-panel) | [Project-Prometheus-v2.0](https://github.com/asankaSovis/Project-Prometheus-v2.0)
 
@@ -165,6 +165,12 @@ In this project, the plan was to use a distributed HPC algorithm to enhance time
 - *Key Technologies* - 🖥️ Visual C# | 🐍 Python | 🖥️ Beowulf Cluster | 🖥️ High Performance Computing (HPC) | 🤖 Artificial Intelligence
 - *Status* - 🔄 working
 - *Project Website* - [Project Almanac](http://www.projectalmanac.org/)
+
+### 12. 🌡️ Project Lihini
+Founder and developer of Project Lihini. Project Lihini is a project aiming towards building an opensource, end to end weather monitoring platform. The aim is to build a weather monitoring platform that sources data from volunteers and makes the data available publicly. Everything from hardware to software is intended to be opensource. This includes the hardware designs, firmware and web front-end and back-end.
+- *Key Technologies* -  💿 C/C++ | 𓇲 Free RTOS
+- *Status* - 🔄 working
+- *Project Website* - [Project Lihini](https://github.com/Project-Lihini)
 
 ---
 
