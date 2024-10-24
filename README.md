@@ -1,4 +1,4 @@
-# 🇱🇰 Welcome to Asanka's GitHub Profile
+# 👻 Welcome to Asanka's GitHub Profile
 
 ![I'm a tech nerd and a coding enthusiast](./.sources/Cover.png)
 
@@ -14,7 +14,7 @@
 
 **Skills:** ⚡ Electronic Engineering | 📟 FPGA and HDL | 💿 Firmware Development | 🖥️ Hardware Design | 💾 Scripting
 
-- ⛑️ Working as a Software Engineer at [Zebra Technologies](https://www.zebra.com/)
+- 🦓 Working as a Software Engineer at [Zebra Technologies](https://www.zebra.com/)
 - 🎓 Graduate in BSc. in Engineering in Electrical, Electronic and Telecommunication at [SLTC Research University](https://sltc.ac.lk/)
 - 🌃 Co-creator of [Project Almanac](http://www.projectalmanac.org/)
 - 💿 An avid C/C++ and Rust firmware development
