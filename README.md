@@ -2,11 +2,11 @@
 
 ![I'm a tech nerd and a coding enthusiast](./.sources/Cover.png)
 
-> An Embedded Engineer working in the field of Embedded Engineering
+> A Software Engineer working in the field of Electronic Engineering
 
 ## ✒️ About Me
 
-<p align="center"> Asanka is an Embedded Engineer with one year of experience in the industry. Graduate from SLTC Research University, Asanka specializes in Electronics and Telecommunication Engineering. This is fuelled by a passion for all things electronics and experience in firmware development, hardware design and IoT integrations. The experience provides Asanka with a keen sense of managing projects, optimizing hardware designs and writing memory-safe code. </p>
+<p align="center"> Asanka is a Software Engineer with one year of experience in the industry. Graduate from SLTC Research University, Asanka specializes in Electronics and Telecommunication Engineering. This is fuelled by a passion for all things electronics and experience in firmware development, hardware design and IoT integrations. The experience provides Asanka with a keen sense of managing projects, optimizing hardware designs and writing memory-safe code. </p>
 
 </br>
 
@@ -14,7 +14,7 @@
 
 **Skills:** ⚡ Electronic Engineering | 📟 FPGA and HDL | 💿 Firmware Development | 🖥️ Hardware Design | 💾 Scripting
 
-- ⛑️ Working as an Embedded Engineer at [SenzMate IoT Intelligence](https://www.senzmate.com/)
+- ⛑️ Working as a Software Engineer at [Zebra Technologies](https://www.zebra.com/)
 - 🎓 Graduate in BSc. in Engineering in Electrical, Electronic and Telecommunication at [SLTC Research University](https://sltc.ac.lk/)
 - 🌃 Co-creator of [Project Almanac](http://www.projectalmanac.org/)
 - 💿 An avid C/C++ and Rust firmware development
