@@ -1,4 +1,4 @@
-# 👻 Welcome to Asanka's GitHub Profile
+# ❄️ Welcome to Asanka's GitHub Profile
 
 ![I'm a tech nerd and a coding enthusiast](./.sources/Cover.png)
 
