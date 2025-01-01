@@ -1,4 +1,4 @@
-# ❄️ Welcome to Asanka's GitHub Profile
+# 🎆 Welcome to Asanka's GitHub Profile
 
 ![I'm a tech nerd and a coding enthusiast](./.sources/Cover.png)
 
@@ -180,5 +180,5 @@ Founder and developer of Project Lihini. Project Lihini is a project aiming towa
 
 ***Made with ❤️ in [<img src='./.sources/lion.svg' alt='sl' height='20'>](https://github.com/asankaSovis/asankaSovis/blob/main/lion.svg "Sri Lanka") Sri Lanka***
 
-<p align="center">© 2024, Asanka Sovis </p> 
+<p align="center">© 2025, Asanka Sovis </p> 
 
