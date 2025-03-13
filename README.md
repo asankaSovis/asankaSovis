@@ -1,4 +1,4 @@
-# 🎆 Welcome to Asanka's GitHub Profile
+# 🙏 Welcome to Asanka's GitHub Profile
 
 ![I'm a tech nerd and a coding enthusiast](./.sources/Cover.png)
 
@@ -21,8 +21,8 @@
 - 🖥️ A keen PCB and hardware developer
 - 📮 A huge proponent of open-source
 - 🎵 Appreciates good art and music
-- 📧 Reach me with my email: [akashsovis@gmail.com](mailto:akashsovis@gmail)
-- 🌎 Visit my Website: [asankasovis.github.io](https://asankasovis.github.io/)
+- 📧 Reach me with my email: [contact@asankasovis.com](contact@asankasovis.com)
+- 🌎 Visit my Website: [asankasovis.com](https://asankasovis.com/)
 - 🌲 Go through my Linktree: [Linktree](https://linktr.ee/asankasovis)
 - 💸 Donations: [Paypal](https://www.paypal.com/donate/?hosted_button_id=4EWXTWQ9FUFLA)
 
