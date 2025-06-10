@@ -17,12 +17,13 @@
 - 🦓 Working as a Software Engineer at [Zebra Technologies](https://www.zebra.com/)
 - 🎓 Graduate in BSc. in Engineering in Electrical, Electronic and Telecommunication at [SLTC Research University](https://sltc.ac.lk/)
 - 🌃 Co-creator of [Project Almanac](http://www.projectalmanac.org/)
-- 💿 An avid C/C++ and Rust firmware development
+- 💿 An avid software and firmware development
 - 🖥️ A keen PCB and hardware developer
 - 📮 A huge proponent of open-source
 - 🎵 Appreciates good art and music
 - 📧 Reach me with my email: [contact@asankasovis.com](contact@asankasovis.com)
 - 🌎 Visit my Website: [asankasovis.com](https://asankasovis.com/)
+- 📚 Read through my Blog: [blog.asankasovis.com](https://blog.asankasovis.com/)
 - 🌲 Go through my Linktree: [Linktree](https://linktr.ee/asankasovis)
 - 💸 Donations: [Paypal](https://www.paypal.com/donate/?hosted_button_id=4EWXTWQ9FUFLA)
 
@@ -30,8 +31,8 @@
 
 Asanka shares interesting things related to electronics, tech and programming on all major social media. Asanka is also keen on sharing his work, not to mention the blog posts he writes. The content doesn't end there, check the links below to take a look.
 
-[<p align="center"><img src='./.sources/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/artist.artist.98) [<img src='./.sources/github.svg' alt='github' height='30'>](https://github.com/asankaSovis)  [<img src='./.sources/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/asankaakashsovis/)  [<img src='./.sources/twitter.svg' alt='twitter' height='30'>](https://twitter.com/AsankaSovis)  [<img src='./.sources/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/asanka-sovis/)  [<img src='./.sources/youtube.svg' alt='youTube' height='30'>](https://www.youtube.com/c/AKASHSOVIS/) 
-[<img src='./.sources/deviant.svg' alt='deviant' height='30'>](https://www.deviantart.com/asanka98)  [<img src='./.sources/pin.svg' alt='pinterest' height='30'>](https://www.pinterest.com/asankasovis)     [<img src='./.sources/hashnode.png' alt='hashnode' height='28'>](https://asanka.hashnode.dev/)     [<img src='./.sources/blog.svg' alt='blog' height='28'>](https://asanka-sovis.blogspot.com/)
+[<p align="center"><img src='./.sources/facebook.svg' alt='facebook' height='30'>](http://facebook.asankasovis.com) [<img src='./.sources/github.svg' alt='github' height='30'>](http://github.asankasovis.com)  [<img src='./.sources/instagram.svg' alt='instagram' height='30'>](http://insta.asankasovis.com)  [<img src='./.sources/twitter.svg' alt='twitter' height='30'>](http://twitter.asankasovis.com)  [<img src='./.sources/linkedin.svg' alt='linkedin' height='30'>](http://wlinkedin.asankasovis.com)  [<img src='./.sources/youtube.svg' alt='youTube' height='30'>](http://youtube.asankasovis.com) 
+[<img src='./.sources/deviant.svg' alt='deviant' height='30'>](https://www.deviantart.com/asanka98)  [<img src='./.sources/pin.svg' alt='pinterest' height='30'>](https://www.pinterest.com/asankasovis)     [<img src='./.sources/hashnode.png' alt='hashnode' height='28'>](https://blog.asankasovis.com/)     [<img src='./.sources/blog.svg' alt='blog' height='28'>](https://asanka-sovis.blogspot.com/)
 
 </p>
 
