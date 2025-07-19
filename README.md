@@ -6,7 +6,7 @@
 
 ## 🦊 About Me
 
-<p align="center"> Asanka is a Software Engineer with one year of experience in the industry. Graduate from SLTC Research University, Asanka specializes in Electronics and Telecommunication Engineering. This is fuelled by a passion for all things electronics and experience in firmware development, hardware design and IoT integrations. The experience provides Asanka with a keen sense of managing projects, optimizing hardware designs and writing memory-safe code. </p>
+<p align="center">I'm a dedicated software engineer with a passion for bringing hardware and software together to create robust and efficient solutions. My expertise spans firmware development in C and C++, real-time operating systems (RTOS), and debugging complex low-level interactions. I thrive on optimizing performance, managing power consumption, and ensuring the reliability of devices from concept to deployment. I'm always eager to tackle new challenges in IoT, industrial automation, or automotive systems, leveraging my problem-solving skills to deliver innovative and impactful products.</p>
 
 </br>
 
@@ -29,7 +29,7 @@
 
 ## 🦊 Social Media
 
-Asanka shares interesting things related to electronics, tech and programming on all major social media. Asanka is also keen on sharing his work, not to mention the blog posts he writes. The content doesn't end there, check the links below to take a look.
+I shares interesting things related to electronics, tech and programming on all major social media. I'm also keen on sharing his work, not to mention the blog posts he writes. The content doesn't end there, check the links below to take a look.
 
 [<p align="center"><img src='./.sources/facebook.svg' alt='facebook' height='30'>](http://facebook.asankasovis.com) [<img src='./.sources/github.svg' alt='github' height='30'>](http://github.asankasovis.com)  [<img src='./.sources/instagram.svg' alt='instagram' height='30'>](http://insta.asankasovis.com)  [<img src='./.sources/twitter.svg' alt='twitter' height='30'>](http://twitter.asankasovis.com)  [<img src='./.sources/linkedin.svg' alt='linkedin' height='30'>](http://wlinkedin.asankasovis.com)  [<img src='./.sources/youtube.svg' alt='youTube' height='30'>](http://youtube.asankasovis.com) 
 [<img src='./.sources/deviant.svg' alt='deviant' height='30'>](https://www.deviantart.com/asanka98)  [<img src='./.sources/pin.svg' alt='pinterest' height='30'>](https://www.pinterest.com/asankasovis)     [<img src='./.sources/hashnode.png' alt='hashnode' height='28'>](https://blog.asankasovis.com/)     [<img src='./.sources/blog.svg' alt='blog' height='28'>](https://asanka-sovis.blogspot.com/)
@@ -40,25 +40,25 @@ Asanka shares interesting things related to electronics, tech and programming on
 
 ## 🦊 Github Footprint
 
-Asanka is passionate about sharing his knowledge with others. As a proponent of open source, he also shares most of his work online for the reference of others. He hopes that others might with the work useful and will do greater things with them. The following metrics are a testament to that effort.
+I'm passionate about sharing my knowledge with others. As a proponent of open source, I also shares most of my work online for the reference of others. I hopes that others might find the work useful and will do greater things with them. The following metrics are a testament to that effort.
 
 ![Github Metrics](/metrics/metrics.plugin.base.svg)
 
 
 ## 🦊 Github Performance
 
-Asanka does his best to keep a healthy work-life balance. Since he's working full-time as an Embedded Engineer, he sometimes finds it hard to keep all other aspects of his life in balance which sometimes results in a decline in Github activity. However, he does his best to keep this balance and not disrupt the flow.
+I do my best to keep a healthy work-life balance. Since I'm working full-time as a software engineer, I sometimes find it hard to keep all other aspects of my life in balance which sometimes results in a decline in Github activity. However, I do my best to keep this balance and not disrupt the flow.
 
 ![GitHub stats (NOTE: If you see this text, then something must've gone wrong with loading this widget. Please try reloading. If it persists, please contact me.)](https://github-readme-stats.vercel.app/api?username=asankaSovis&show_icons=true&count_private=true&theme=merko)
 
 ## 🦊 Github Achievements
-With the free time Asanka has, he always tries to do something valuable for himself and others. The content he uploads to GitHub has allowed him to achieve quite a lot within a very small amount of time. These small achievements make him motivated to continue expanding his skillset and to share more and more with others on the internet. The hope is that he's able to continue this throughout his journey as an engineer. Check out some of the achievements below.
+With the free time I have, I always try to do something valuable for myself and others. The content I upload to GitHub has allowed me to achieve quite a lot within a very small amount of time. These small achievements make me motivated to continue expanding my skillset and to share more and more with others on the internet. The hope is that I'm able to continue this throughout my journey as an engineer. Check out some of the achievements below.
 
 ![Achievements](/metrics/metrics.plugin.achievements.svg)
 
 ## 🦊 Key Languages
 
-Asanka is interested in a variety of fields. He finds himself comfortable mostly in Embedded Development. However, he's interested in scripting, HDL and creative design as well. On the other hand, he also does reverse engineering, technology research and blogging. Even though not his strong point, he's also capable of working on web development. Go through the following to get a better understanding of his skill set.
+I'm interested in a variety of fields. I find myself comfortable mostly in embedded development. However, I'm interested in scripting, hardware development, and creative design as well. On the other hand, I also do reverse engineering, technology research and blogging. Even though not my strong point, I'm also capable of working on web development. Go through the following to get a better understanding of my skill set.
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -99,7 +99,7 @@ Asanka is interested in a variety of fields. He finds himself comfortable mostly
  
 ## 🦊 Highlight Projects
 
-These are some of the projects that Asanka is proud of. He puts a lot of effort into them since they can improve his knowledge of certain technologies while acting as a starting point for others to build great things. He plans to add more projects to this list and to continue developing these even further.
+These are some of the projects that I'm proud of. I put a lot of effort into them since they can improve my knowledge of certain technologies while acting as a starting point for others to build great things. I plan to add more projects to this list and to continue developing these even further.
 
 ### 01. 💻 Eight Bit Computer Using FPGA
 This project is trying to recreate the eight-bit computer that [Ben Eater](https://www.youtube.com/c/BenEater) created in his famous YouTube[ series](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU). However, the difference is that here, the intended use is of FPGAs and the Verilog HDL for this task. The goal was to use this as a learning opportunity to sharpen the knowledge in FPGAs and Verilog.
