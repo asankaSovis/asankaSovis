@@ -23,7 +23,7 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
-          config_display: 10
+          plugin_achievements_limit: 10
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics/metrics.plugin.langs.svg
