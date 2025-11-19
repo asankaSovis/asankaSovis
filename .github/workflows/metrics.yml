@@ -12,11 +12,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@latest
         with:
           filename: metrics/metrics.plugin.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@latest
         with:
           filename: metrics/metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -24,7 +24,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_limit: 10
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@latest
         with:
           filename: metrics/metrics.plugin.langs.svg
           token: ${{ secrets.METRICS_TOKEN }}
