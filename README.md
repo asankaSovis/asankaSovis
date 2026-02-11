@@ -19,7 +19,7 @@
 - 🌃 Co-creator of [Project Almanac](http://www.projectalmanac.org/)
 - 💿 An avid software and firmware development
 - 🖥️ A keen PCB and hardware developer
-- 📮 A huge proponent of open-source
+- 📮 Avid proponent of open-source
 - 🎵 Appreciates good art and music
 - 📧 Reach me with my email: [contact@asankasovis.com](contact@asankasovis.com)
 - 🌎 Visit my Website: [asankasovis.com](https://asankasovis.com/)
@@ -177,9 +177,7 @@ Founder and developer of Project Lihini. Project Lihini is a project aiming towa
 
 </br>
 
-> Check out my [Fiverr](https://www.fiverr.com/s2/e49d0013dd)
-
 ***Made with ❤️ in [<img src='./.sources/lion.svg' alt='sl' height='20'>](https://github.com/asankaSovis/asankaSovis/blob/main/lion.svg "Sri Lanka") Sri Lanka***
 
-<p align="center">© 2025, Asanka Sovis </p> 
+<p align="center">© 2026, Asanka Sovis </p> 
 
